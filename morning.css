@@ -1,0 +1,30 @@
+body, .wp-core-ui .attachment-preview{
+    background-color: rgb(243, 241, 118) !important;
+}
+h1,h2,h3, .widefat tfoot tr td, .widefat tfoot tr th,
+ .widefat thead tr td, .widefat thead tr th,
+  .wrap .add-new-h2, .wrap .add-new-h2:active,
+   .wrap .page-title-action, .wrap .page-title-action:active,
+    .components-icon-button:not(:disabled):not([aria-disabled=true]):not(.is-default):hover,
+     .components-panel__body-toggle.components-button, span.menu-item-title,
+      #nav-menu-header .menu-name-label,
+       #customize-theme-controls .control-panel-themes>.accordion-section-title,
+        #customize-theme-controls .control-panel-themes>.accordion-section-title:hover,
+         .customize-section-title h3, h3.customize-section-title, .theme-overlay .theme-name,
+           .filter-links li>a:hover , #plugin-information .review-title-section h4,
+            #plugin-information .fyi strong, .editor-post-title__block .editor-post-title__input,
+             .wp-full-overlay-footer .devices button.active:before,
+              .wp-full-overlay-footer .devices button:hover:before,
+               #customize-controls .customize-info .accordion-section-title,
+                .theme-overlay .theme-tags span, .community-events li, .ac_match,
+                 .subsubsub a.current, .subsubsub a .count, .subsubsub a.current .count,
+                  .plugins tr, .plugins .active td, .plugins .active th, .form-table th,
+                   .form-wrap label, .importer-title, .contextual-help-tabs .active a,
+                    #screen-meta-links .show-settings:hover, .wp-core-ui .button-secondary:focus,
+                     .wp-core-ui .button-secondary:hover, .wp-core-ui .button.focus,
+                      .wp-core-ui .button.hover, .wp-core-ui .button:focus, .wp-core-ui .button:hover{
+
+
+                        
+    color: white !important;
+}
